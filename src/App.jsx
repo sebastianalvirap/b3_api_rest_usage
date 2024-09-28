@@ -1,13 +1,14 @@
 import './App.css'
 // import { ApiCoffeeCarruselBasic } from './assets/components/ApiCoffeeCarruselBasic'
-import { CatGalleryFetch } from './assets/components/CatGalleryFetch';
+//import { CatGalleryFetch } from './assets/components/CatGalleryFetch';
+import { RickAndMorty } from './assets/components/RickAndMorty';
 
 function App() {
 
 
   return (
     <div>
-      <CatGalleryFetch />
+      <RickAndMorty />
     </div>
   )
 }
